@@ -431,6 +431,9 @@ http://e.advd.cyou:80/duda2020/duda2020/184857
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="CANAIS BR FILMES E SERIES", STAR CHANNEL HD.
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/fox.m3u8?mu3zAQc9HC3GbwJq=NLRTQMMiSN8qQvnVomLQvw&3U1G7qaTxrPbalZnEx=1617002246
 
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarHits2BR_Logo2021_FondoOscuro.png.3e36e681ed7e83d14e526e81afa266c3.png" group-title="CANAIS BR FILMES E SERIES", STAR HITS 2 HD.
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/foxpremium2.m3u8?mu3zAQc9HC3GbwJq=NSF7HitjUBOdOsJfqAKHzA&3U1G7qaTxrPbalZnEx=1617010935
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O45MhbM.png" group-title="CANAIS BR FILMES E SERIES", Fox Premium 2 HD.
 http://e.advd.cyou:80/duda2020/duda2020/184866
 
@@ -946,7 +949,7 @@ http://top.hatv.me:2095/dtv_561535/QpBGAaq0/13741
 http://top.hatv.me:2095/dtv_561535/QpBGAaq0/14099
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarHits_Logo2021_FondoOscuro.png.45ae1af33adde821778a60e2d08ca43e.png" group-title="FILMES & SERIES", Star Hits 1 HD
-https://content-asae1-up-2.uplynk.com/channel/9f7a5e9ec43f42ba87bce6a3ee976973/e.m3u8?exp=1616994153&ct=c&cid=9f7a5e9ec43f42ba87bce6a3ee976973&expand=drmOff&iph=ac6068377bf84d3da5175d1d62d9e0fa999c7dc5098552601b89d5a674fc7a39&euid={8A73B25D-7678-4E61-8B49-32B6C2FD8C0C}_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=eafc07e320151443d39c3edfdea3ece72f223dbcf8084c5fdea6711c7d8e89a6&pbs=e3cf0e8da24c422589db6de909cff53a
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/foxpremium1.m3u8?mu3zAQc9HC3GbwJq=7eoDIdV_IoLmOe3KIXzYjQ&3U1G7qaTxrPbalZnEx=1617011444
 
 #EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Telecine_Touch_4K.png" group-title="FILMES & SERIES", TELECINE TOUCH 4K
 http://top.hatv.me:2095/dtv_561535/QpBGAaq0/14162
