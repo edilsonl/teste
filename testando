@@ -408,7 +408,7 @@ http://e.advd.cyou:80/duda2020/duda2020/191898
 http://e.advd.cyou:80/duda2020/duda2020/191899
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MYimBe1.png" group-title="CANAIS BR FILMES E SERIES", A&E HD.
-http://e.advd.cyou:80/duda2020/duda2020/184850
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/aie.m3u8?mu3zAQc9HC3GbwJq=awOyzIkVvvv3g9zYIVttSg&3U1G7qaTxrPbalZnEx=1617049335
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MYimBe1.png" group-title="CANAIS BR FILMES E SERIES", A&E SD.
 http://e.advd.cyou:80/duda2020/duda2020/184851
@@ -432,7 +432,7 @@ http://e.advd.cyou:80/duda2020/duda2020/184857
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/fox.m3u8?mu3zAQc9HC3GbwJq=xKyFssJkkzW2KsDhllr7wQ&3U1G7qaTxrPbalZnEx=1617048670
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarHits2BR_Logo2021_FondoOscuro.png.3e36e681ed7e83d14e526e81afa266c3.png" group-title="CANAIS BR FILMES E SERIES", STAR HITS 2 HD.
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/foxpremium2.m3u8?mu3zAQc9HC3GbwJq=NSF7HitjUBOdOsJfqAKHzA&3U1G7qaTxrPbalZnEx=1617010935
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/foxpremium2.m3u8?mu3zAQc9HC3GbwJq=pRWviSbfLoL17Cp2Eq4MEw&3U1G7qaTxrPbalZnEx=1617049242
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O45MhbM.png" group-title="CANAIS BR FILMES E SERIES", Fox Premium 2 HD.
 http://e.advd.cyou:80/duda2020/duda2020/184866
@@ -653,6 +653,9 @@ http://e.advd.cyou:80/duda2020/duda2020/185293
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mEVTqVO.png" group-title="CANAIS BR H265 + FULL HD", Discovery Theater FullHD¹(H.265)
 http://e.advd.cyou:80/duda2020/duda2020/185288
+
+#EXTINF:-1 tvg-logo="https://rd1.com.br/wp-content/uploads/2014/06/Discovery-cortada.jpg" group-title="CANAIS BR H265 + FULL HD", Discovery CHANNEL HD
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/discovery.m3u8?mu3zAQc9HC3GbwJq=5zvYTsz94YwJ_N8Qlct8Tg&3U1G7qaTxrPbalZnEx=1617049429
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mmYRl9S.png" group-title="CANAIS BR H265 + FULL HD", Food Network FullHD¹(H.265)
 http://e.advd.cyou:80/duda2020/duda2020/185297
