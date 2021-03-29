@@ -661,7 +661,7 @@ http://e.advd.cyou:80/duda2020/duda2020/185154
 http://e.advd.cyou:80/duda2020/duda2020/185149
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-action-hd_m.png" group-title="CANAIS BR TELECINE", TELECINE ACTION SD.
-http://e.advd.cyou:80/duda2020/duda2020/185243
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/telecineaction.m3u8?mu3zAQc9HC3GbwJq=Ryha4WqyM89pfQCb78lGMQ&3U1G7qaTxrPbalZnEx=1617007096
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lcxkVop.png" group-title="CANAIS BR TELECINE", Telecine Fun SD
 http://e.advd.cyou:80/duda2020/duda2020/185247
@@ -945,8 +945,8 @@ http://top.hatv.me:2095/dtv_561535/QpBGAaq0/13741
 #EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Telecine-Premium_4K.png" group-title="FILMES & SERIES", TELECINE PREMIUM 4K
 http://top.hatv.me:2095/dtv_561535/QpBGAaq0/14099
 
-#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Telecine-Premium_HD.png" group-title="FILMES & SERIES", TELECINE PREMIUM HD
-http://top.hatv.me:2095/dtv_561535/QpBGAaq0/13742
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarHits_Logo2021_FondoOscuro.png.45ae1af33adde821778a60e2d08ca43e.png" group-title="FILMES & SERIES", Star Hits 1 HD
+https://content-asae1-up-2.uplynk.com/channel/9f7a5e9ec43f42ba87bce6a3ee976973/e.m3u8?exp=1616994153&ct=c&cid=9f7a5e9ec43f42ba87bce6a3ee976973&expand=drmOff&iph=ac6068377bf84d3da5175d1d62d9e0fa999c7dc5098552601b89d5a674fc7a39&euid={8A73B25D-7678-4E61-8B49-32B6C2FD8C0C}_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=eafc07e320151443d39c3edfdea3ece72f223dbcf8084c5fdea6711c7d8e89a6&pbs=e3cf0e8da24c422589db6de909cff53a
 
 #EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Telecine_Touch_4K.png" group-title="FILMES & SERIES", TELECINE TOUCH 4K
 http://top.hatv.me:2095/dtv_561535/QpBGAaq0/14162
